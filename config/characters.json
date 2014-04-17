@@ -1,0 +1,91 @@
+{
+    "characters":{
+        "DB":{
+            "name": "Dorsle Bunn",
+            "color" : "yellow"
+        },
+        "CS":{
+            "name": "Crypton Sickett",
+            "color" : "gray"
+        },
+        "JS":{
+            "name": "Jessica",
+            "color" : "green"
+        },
+        "OS":{
+            "name": "Oliver Sodom",
+            "color" : "purple"
+        },
+        "RR":{
+            "name": "Rupert",
+            "color" : "blue"
+        },
+        "BW":{
+            "name": "Blood Worm",
+            "color" : "blue"
+        },
+        "GM":{
+            "name": "Godwin Muse",
+            "color" : "orange"
+        },
+        "GC":{
+            "name": "General Cyde",
+            "color" : "pink"
+        }
+    },
+    "framing":{
+        "EC": "Extra Close Up",
+        "CU": "Close Up",
+        "MS": "Mid Shot",
+        "AS": "Askew"
+    },
+    "cameraposition":{
+        "0": "Camera View From Character",
+        "1": "Camera Far Left",
+        "2": "Camara Mid Left",
+        "3": "Camera Short Left",
+        "4": "Camera Straight On",
+        "5": "Camera Short Right",
+        "6": "Camera Mid Right",
+        "7": "Camera Far Right",
+        "8": "Camera Top Lady 8s POV",
+        "9": "Camera Bottom Toilet POV"
+    },
+    "eyeline":{
+        "0": "View From Character",
+        "1": "Look Far Right",
+        "2": "Look Mid Right",
+        "3": "Look Short Right",
+        "4": "Look Straight On",
+        "5": "Look Short Left",
+        "6": "Look Mid Left",
+        "7": "Look Far Left",
+        "8": "Look Top Lady 8s POV",
+        "9": "Look Bottom Toilet POV"        
+    },
+    "emotion":{
+        "H": "Happy",
+        "A": "Angry",
+        "S": "Sad",
+        "N": "Neutral",
+        "T": "Thoughtful",
+        "L": "Laughing",
+        "C": "Crying",
+        "P": "Surprised"
+    },
+    "phoneme":{
+        "A": "A and I",
+        "E": "E",
+        "O": "O",
+        "U": "U",
+        "C": "C, D, G, K, N, R, S, Th, Y and Z",
+        "L": "L (sometimes like D or Th)",
+        "M": "M, B and P",
+        "W": "W and Q",
+        "F": "F and V (sometimes like D or Th)",
+        "R": "Rest",
+        "Y": "Mouth open wide",
+        "T": "Mouth closed tight",
+        "X": "Uncertain"        
+    }
+}
